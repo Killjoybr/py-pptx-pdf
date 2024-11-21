@@ -1,7 +1,7 @@
 # Guia Simples para Rodar o Script
 
 ## Pré-requisitos
-- Python 3.x instalado
+- Python 3.^ 
 - Comtypes
 
 ## Instruções
